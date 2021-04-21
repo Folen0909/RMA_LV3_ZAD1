@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LV3_ZAD1</string>
+    <string name="b_text_grey_bird">Grey Bird</string>
+    <string name="b_text_red_bird">Red Bird</string>
+    <string name="b_text_green_bird">Green Bird</string>
+    <string name="b_text_blue_bird">Blue Bird</string>
+    <string name="b_text_reset">Reset</string>
+</resources>
